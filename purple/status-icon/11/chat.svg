@@ -37,8 +37,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-6.2806324"
-     inkscape:cy="-4.1510722"
+     inkscape:cx="-20.561268"
+     inkscape:cy="-4.3262947"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -151,7 +151,7 @@
        d="m 284.00015,-411.5 a 5.5,5.5 0 0 1 -11,0 5.5,5.5 0 1 1 11,0 z" />
     <path
        sodipodi:nodetypes="csscccc"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.54645538;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.54645538;marker:none;enable-background:accumulate"
        id="path4155"
        d="m 282.66031,-409.0625 c -0.30476,-1.18724 -1.35766,-2.0625 -2.64258,-2.0625 l -1.375,0 c -1.28492,0 -2.33782,0.87526 -2.64258,2.0625 l 2.00005,2.0625 3.83008,0 z"
        inkscape:connector-curvature="0" />
@@ -162,7 +162,7 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.54645538;marker:none;enable-background:accumulate"
        sodipodi:nodetypes="csscccc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        id="path4157"
        d="m 279.33023,-415.84615 c -1.10457,0 -2,0.86099 -2,1.92307 0,1.06209 0.89543,1.92308 2,1.92308 1.10457,0 2,-0.86099 2,-1.92308 0,-1.06208 -0.89543,-1.92307 -2,-1.92307 z"
        inkscape:connector-curvature="0" />
