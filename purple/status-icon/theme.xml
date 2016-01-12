@@ -4,7 +4,7 @@
     Copyright (C) 2016 Simon Steinbeiss
     GNU GPLv2+ licensed
 -->
-<theme type="pidgin status icon" name="elementary" author="Simon Steinbeiss" image="48/available.png">
+<theme type="pidgin status icon" name="elementary" author="Simon Steinbeiss" image="48/person.png">
   <description>Clean status icon theme</description>
   <icon id="pidgin-status-available" file="available.png" />
   <icon id="pidgin-status-available-i" file="available.png" />
