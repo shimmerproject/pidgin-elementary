@@ -1,3 +1,19 @@
+# pidgin-elementary
+
+These icon themes are based on the elementary icon project and as such is released under GPLv2+.
+
+## status icons ##
+![alt text](status-icons/purple/status-icon/22/available.png)
+![alt text](status-icons/purple/status-icon/22/away.png)
+![alt text](status-icons/purple/status-icon/22/busy.png)
+![alt text](status-icons/purple/status-icon/22/chat.png)
+![alt text](status-icons/purple/status-icon/22/offline.png)
+![alt text](status-icons/purple/status-icon/22/person.png)
+This is a very simple status icon theme for Pidgin to match the elementary icon theme.
+
+It follows Pidgin's status icon specification: https://developer.pidgin.im/wiki/StatusIconThemes
+
+## smiley theme ##
 ![alt text](emotes/elementary/face-happy.png)
 ![alt text](emotes/elementary/face-angry.png)
 ![alt text](emotes/elementary/face-heart.png)
@@ -7,16 +23,6 @@
 ![alt text](emotes/elementary/face-smile-crying.png)
 ![alt text](emotes/elementary/face-tired.png)
 ![alt text](emotes/elementary/face-wink.png)
-# pidgin-elementary
-
-These icon themes are based on the elementary icon project and as such is released under GPLv2+.
-
-## status icons ##
-This is a very simple status icon theme for Pidgin to match the elementary icon theme.
-
-It follows Pidgin's status icon specification: https://developer.pidgin.im/wiki/StatusIconThemes
-
-## smiley theme ##
 This is a plain smiley theme based on elementary.
 
 ## Installation ##
