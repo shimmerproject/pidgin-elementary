@@ -29,4 +29,4 @@ This is a plain smiley theme based on elementary.
 
 ## Installation ##
 
-Run `make install` or only `make install-status` or `make install-emotes` respectively.
+Run `make install` or `make install-status` and `make install-emotes` respectively.
