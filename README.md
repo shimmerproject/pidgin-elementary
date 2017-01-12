@@ -9,6 +9,7 @@ These icon themes are based on the elementary icon project and as such is releas
 ![alt text](status-icons/purple/status-icon/22/chat.png)
 ![alt text](status-icons/purple/status-icon/22/offline.png)
 ![alt text](status-icons/purple/status-icon/22/person.png)
+
 This is a very simple status icon theme for Pidgin to match the elementary icon theme.
 
 It follows Pidgin's status icon specification: https://developer.pidgin.im/wiki/StatusIconThemes
@@ -23,6 +24,7 @@ It follows Pidgin's status icon specification: https://developer.pidgin.im/wiki/
 ![alt text](emotes/elementary/face-smile-crying.png)
 ![alt text](emotes/elementary/face-tired.png)
 ![alt text](emotes/elementary/face-wink.png)
+
 This is a plain smiley theme based on elementary.
 
 ## Installation ##
