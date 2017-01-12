@@ -1,4 +1,6 @@
 ![alt text](emotes/elementary/face-happy.png)
+![alt text](emotes/elementary/face-angry.png)
+![alt text](emotes/elementary/face-heart.png)
 # pidgin-elementary
 
 These icon themes are based on the elementary icon project and as such is released under GPLv2+.
