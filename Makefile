@@ -4,8 +4,6 @@ emotes_theme = "emotes/elementary"
 status_dir = "~/.purple/themes/elementary"
 status_theme = "status-icons/purple"
 
-all:
-
 convert:
 	for icon in $(emotes_src)/*.svg; do \
 		inkscape -z $$icon -e $${icon%%.*}.png; \

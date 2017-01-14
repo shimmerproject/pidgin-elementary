@@ -49,4 +49,9 @@ This is a plain smiley theme based on elementary.
 
 ## Installation ##
 
-Run `make install` or `make install-status` and `make install-emotes` respectively.
+Run `make install-status` and `make install-emotes` respectively.
+Please note that currently the emotes theme goes to the system-wide directory and
+the status-icons are installed for the current user only (pidgin does not support
+system-wide status-icon themes yet).
+When this is fixed you can run `make install`, which currently is broken because
+one part would need `sudo` and the other would not.
