@@ -1,0 +1,45 @@
+Name=elementary
+Description=elementary smileys
+Icon=face-wink.png
+Author=Simon Steinbeiss
+
+# This icon theme is based on the work of Daniel Foré and all other contributors
+# to the elementary icon theme. https://github.com/elementary/icons
+
+# Default smileys
+[default]
+face-angel.png  O:-)  o:-)  O:) o:)
+face-angry.png  >:o >:O >:-(  >:( X-( x-(
+face-cool.png 8-) B-)
+face-crying.png :'( :'-(
+face-devilish.png (6)
+face-embarrassed.png  :-[ :"> /:-|  /gg  /embarassed
+face-happy.png  :)  :-)
+face-heart-broken.png :brokenheart:
+face-heart.png  :heart: :love:  <3
+face-kiss.png :*  :-* :kiss:
+face-laugh.png  :-D :-d :D  :d
+face-mail.png :mail:  :e-mail:
+face-plain.png  :|  :-|
+face-raspberry.png  :P  :p  :-P :-p
+face-raspberry-squint.png  XP  xp  X-P x-p
+face-raspberry-wink.png ;P  ;p  ;-P ;-p
+face-sad.png  :-( :(
+face-sick.png +o( /:T /tu  /vomit
+face-smile-big.png  :DD :-DD  :dd :-dd
+face-smile-big-squint.png X:D x:d X:DD  x:dd
+face-smile-crying.png :'D :'d :')
+face-smile.png  :)) :-))
+face-smirk.png  :,  /:> /hanx  /smirk ^o)
+face-star.png :star:  (*)  /<*>  /xixing  /star
+face-surprise.png =-O =-o
+face-tired.png  *TIRED* *tired*
+face-uncertain.png  :-/ :-\\  :/
+face-wink.png ;-) ;)
+face-worried.png  :s  :S  :-S :-s
+
+
+## Currently not supported emotes (while part of Pidgin's default smiley theme)
+# shut-mouth.png      :-X
+# moneymouth.png      :-$
+# foot-in-mouth.png   :-!
