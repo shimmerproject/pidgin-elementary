@@ -15,15 +15,35 @@ This is a very simple status icon theme for Pidgin to match the elementary icon 
 It follows Pidgin's status icon specification: https://developer.pidgin.im/wiki/StatusIconThemes
 
 ## smiley theme ##
-![alt text](emotes/elementary/face-happy.png)
+![alt text](emotes/elementary/face-angel.png)
 ![alt text](emotes/elementary/face-angry.png)
+![alt text](emotes/elementary/face-cool.png)
+![alt text](emotes/elementary/face-crying.png)
+![alt text](emotes/elementary/face-devilish.png)
+![alt text](emotes/elementary/face-embarrassed.png)
+![alt text](emotes/elementary/face-happy.png)
+![alt text](emotes/elementary/face-heart-broken.png)
 ![alt text](emotes/elementary/face-heart.png)
+![alt text](emotes/elementary/face-kiss.png)
 ![alt text](emotes/elementary/face-laugh.png)
+![alt text](emotes/elementary/face-mail.png)
+![alt text](emotes/elementary/face-plain.png)
+![alt text](emotes/elementary/face-raspberry.png)
+![alt text](emotes/elementary/face-raspberry-squint.png)
+![alt text](emotes/elementary/face-raspberry-wink.png)
+![alt text](emotes/elementary/face-sad.png)
 ![alt text](emotes/elementary/face-sick.png)
-![alt text](emotes/elementary/face-star.png)
+![alt text](emotes/elementary/face-smile-big.png)
+![alt text](emotes/elementary/face-smile-big-squint.png)
 ![alt text](emotes/elementary/face-smile-crying.png)
+![alt text](emotes/elementary/face-smile.png)
+![alt text](emotes/elementary/face-smirk.png)
+![alt text](emotes/elementary/face-star.png)
+![alt text](emotes/elementary/face-surprise.png)
 ![alt text](emotes/elementary/face-tired.png)
+![alt text](emotes/elementary/face-uncertain.png)
 ![alt text](emotes/elementary/face-wink.png)
+![alt text](emotes/elementary/face-worried.png)
 
 This is a plain smiley theme based on elementary.
 
