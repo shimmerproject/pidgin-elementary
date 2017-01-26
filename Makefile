@@ -9,7 +9,6 @@ status_theme_dst = status-icons/purple/status-icon
 convert: convert-emotes convert-status
 
 all_emote_svgs = $(wildcard $(emotes_src)/*.svg)
-all_emote_pngs = $(patsubst $(emotes_src)/%.svg,$(emotes_theme)/%.png,$(all_emote_svgs))
 all_emote_pngs = $(subst $(emotes_src),$(emotes_theme),$(all_emote_svgs:%.svg=%.png))
 
 convert-emotes: $(all_emote_pngs)
@@ -36,8 +35,8 @@ install-emotes: check-root convert-emotes
 	cp -r $(emotes_theme) $(emotes_target)
 
 install-status: check-root convert-status
-	mkdir -p $(status_dir)
-	cp -r $(status_theme) $(status_dir)
+	sudo --user $$(SUDO_USER) mkdir -p $(status_dir)
+	sudo --user $$(SUDO_USER) cp -r $(status_theme) $(status_dir)
 
 uninstall: uninstall-emotes uninstall-status
 
@@ -46,3 +45,6 @@ uninstall-emotes: check-root
 
 uninstall-status: check-root
 	test -e $(status_dir) && rm -rfv $(status_dir)
+
+clean:
+	rm -f $(all_emote_pngs) $(all_status_pngs)
